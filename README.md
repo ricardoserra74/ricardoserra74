@@ -1,8 +1,8 @@
 👋 Hola, soy Ricardo Serra:
-👀 Soy Data Strategist en Atresmedia.
-🌱 Acabo de realizar un máster de Data Science y
-👣 aquí voy dando mis pequeños pasos.
-Voy publicando aquí mis humildes códigos
+- 👀 Soy Data Strategist en Atresmedia.
+- 🌱 Acabo de realizar un máster de Data Science y
+- 👣 aquí voy dando mis pequeños pasos.
+- Voy publicando aquí mis humildes códigos
 
 <!---
 ricardoserra74/ricardoserra74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
